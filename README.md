@@ -1,6 +1,6 @@
-Hi there! 👋
+#Hi there! 👋
 🎓 I'm Divya, currently pursuing my undergraduate degree in Computer Science and Engineering.
-**Skills:**
+##Skills:
 ### Programming Languages:
 - **Java**
 - **Python**
